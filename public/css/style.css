@@ -94,3 +94,167 @@ font-size: 28px;
 	font-size: 18px;
 	border-radius: 12px;
 }
+
+/* ~~~~~DIFFERENCE~~~~~~~~ */
+
+#diff{
+	width: 100%;
+}
+
+#about{
+	width: 75%;
+	height: 100%;
+	margin: 0 auto;
+	font-size: 17px;
+	line-height: 1.5em;
+}
+
+#abtSub{
+	width: 75%;
+	margin: 0 auto;
+}
+
+/* ~~~~~~~MARKETS~~~~~~~~~~~~ */
+#markets{
+	width: 100%;
+	background-color: pink;
+}
+#marketPic{
+	width: 100%;
+}
+
+#subMarket{
+	width: 75%;
+	margin: 0 auto;
+}
+
+#marketAbt{
+	width: 75%;
+	margin: 0 auto;
+	font-size: 17px;
+	line-height: 1.5em;
+}
+
+#marketsList{
+	width: 75%;
+	background-color: blue;
+	margin: 0 auto;
+}
+
+
+
+
+.market{
+	width: 400px;
+	border: 1px solid black;
+	display: inline-block;
+	margin: 0 auto;
+	margin: 5px 5px 5px 5px;
+	text-align: center
+}
+
+
+
+/* ~~~~~~~~~SOLUTIONS~~~~~~~~~~~ */
+#hiringSolutions{
+	width: 100%;
+
+}
+#lowVoltage{
+	width: 75%;
+	height: 500px;
+	background-color: green;
+	margin: 0 auto;
+}
+
+#audioVisual{
+	width: 75%;
+	height: 500px;
+	background-color: blue;
+	margin: 0 auto;
+}
+
+#informationTech{
+	width: 75%;
+	height: 500px;
+	background-color: red;
+	margin: 0 auto;
+}
+
+
+/* ~~~~~~~~~~CAREERS~~~~~~~~~~~~~~~ */
+#careers{
+	width: 100%;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+#careerAbt{
+	width: 75%;
+	font-size: 17px;
+	line-height: 1.5em;
+	text-align: center;
+	border: 1px solid blue;
+	margin: 0 auto;
+}
+
+.careerClass{
+	width: 75%;
+	margin: 0 auto;
+}
+
+/* ~~~~~~~~~~CONTACT~~~~~~~~~~~~~ */
+#contact{
+	width: 100%;
+	background-color: pink;
+}
+
+#subContact{
+	width: 50%;
+	margin: 0 auto;
+}
+
+#info{
+	border: 2px solid black;
+	width: 75%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#address{
+	width: 450px;
+	border: 1px solid blue;
+}
+
+#map{
+	width: 450px;
+	border: 1px solid blue;
+	padding: 5px 5px 5px 5px;
+}
+
+
+
+
+#email, #phone{
+	font-weight: bold;
+}
+
+/* ~~~~~~~~~~FOOTER~~~~~~~~~~~~~~~ */
+.content{
+	min-height: calc(100vh -70px);
+}
+
+.footer {
+	margin-top: 25px;
+	height: 50px;
+	width: 100%;
+	background-color:  green;
+	text-align: center;
+
+}
+
+hr{
+	width: 75%;
+	height: 3px;
+	background-color: lightgray;
+}
