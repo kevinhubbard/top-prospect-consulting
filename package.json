@@ -1,0 +1,24 @@
+{
+  "name": "top-prospect-consulting",
+  "version": "1.0.0",
+  "description": "TPC Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhubbard/top-prospect-consulting.git"
+  },
+  "author": "Kevin Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhubbard/top-prospect-consulting/issues"
+  },
+  "homepage": "https://github.com/kevinhubbard/top-prospect-consulting#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}
