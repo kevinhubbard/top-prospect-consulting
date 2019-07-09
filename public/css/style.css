@@ -10,7 +10,25 @@
 	height: 100px;
 }
 
-#left{
+#lv{
+	width: 305px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#av{
+	width: 305px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#it{
+	width: 305px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* #left{
 	margin-left: 300px;
 	display: inline;
 }
@@ -25,7 +43,7 @@ font-size: 28px;
 #backgroundBig{
 	height: 460px;
 	background-color: black;
-}
+} */
 
 #background{
 	width: 100%;
@@ -44,10 +62,10 @@ font-size: 28px;
 
 #solutions{
 	width: 100%;
-	height: 500px;
+	height: 100%;
 	background-color: lightgray;
 	text-align: center;
-
+	margin-bottom: 20px;
 }
 
 .sol{
@@ -56,23 +74,6 @@ font-size: 28px;
 	border: 2px solid black;
 	
 }
-
-#media{
-	position: relative;
-	top: 50px;
-}
-
-#audio{
-	position: relative;
-	top: 25px;
-}
-
-#it{
-	position: relative;
-	top: 50px;	
-}
-
-
 #apply{
 	width: 750px;
 	margin: 0 auto;
